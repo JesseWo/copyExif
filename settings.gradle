@@ -1,0 +1,4 @@
+rootProject.name='CopyExif'
+include ':app'
+include ':libCopyExif'
+include ':libcopyexif'
