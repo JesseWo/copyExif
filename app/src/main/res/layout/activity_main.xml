@@ -23,7 +23,6 @@
         android:paddingLeft="10dp"
         android:paddingRight="10dp"
         tools:text="压缩后图片信息:"
-        app:layout_constraintBottom_toTopOf="@id/btn_select_img"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@id/iv_image" />

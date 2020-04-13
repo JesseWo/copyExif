@@ -11,8 +11,8 @@ import org.json.JSONObject;
  * Created by Jessewoo on 2019/4/8.
  */
 public class LOG {
-    private static final String TAG = "KlineLib";
-    private static final boolean debug = true;
+    private static final String TAG = "copyExif";
+    private static final boolean debug = BuildConfig.DEBUG;
     /**
      * It is used for json pretty println
      */
